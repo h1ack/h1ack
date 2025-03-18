@@ -26,4 +26,4 @@
 
 
 ## Contact
-📧 Email: [meedmexi@gmail.com](mailto:meedmexi@gmail.com)
+📧 Email: [meed@h1ack.me](mailto:meed@h1ack.me)
