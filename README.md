@@ -15,7 +15,7 @@
 </div>
 
 
-<div align="center">
+<div>
   <h1>My Skills :</h1>
   <p>
     1. Cybersecurity - Pentester</br>
