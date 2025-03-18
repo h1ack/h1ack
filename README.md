@@ -16,12 +16,10 @@
 
 
 <div>
-  <h1>My Skills :</h1>
-  <p>
-    1. Cybersecurity - <span><p style="color: green;">Pentester</p></span></br>
-    2. Full Stack Developer</br>
-    3. Graphic Designer</br>
-    4. Vector Artist</br>
-    5. Software Developer
-  </p>
+  <h1>My Skills:</h1>
+  <p>1. Cybersecurity - <span style="color: green;">Pentester</span></p>
+  <p>2. Full Stack Developer</p>
+  <p>3. Graphic Designer</p>
+  <p>4. Vector Artist</p>
+  <p>5. Software Developer</p>
 </div>
