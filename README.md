@@ -13,3 +13,15 @@
     I built it entirely on my own, without any help, as a demonstration of my abilities and dedication. <span><a href="https://h1ack.me">h1ack</a><span>
   </p>
 </div>
+
+
+<div align="center">
+  <h1>My Skills :</h1>
+  <p>
+    1. Cybersecurity - Pentester
+    2. Full Stack Developer
+    3. Graphic Designer
+    4. Vector Artist
+    5. Software Developer
+  </p>
+</div>
