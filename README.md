@@ -23,3 +23,7 @@
   <p>4. Vector Artist</p>
   <p>5. Software Developer</p>
 </div>
+
+
+## Contact
+📧 Email: [meedmexi@gmail.com](mailto:meedmexi@gmail.com)
