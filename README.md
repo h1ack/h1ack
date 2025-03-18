@@ -17,7 +17,7 @@
 
 <div>
   <h1>My Skills:</h1>
-  <p>1. Cybersecurity - <span style="color: green;">Pentester</span></p>
+  <p>1. Cybersecurity - Pentester</p>
   <p>2. Full Stack Developer</p>
   <p>3. Graphic Designer</p>
   <p>4. Vector Artist</p>
