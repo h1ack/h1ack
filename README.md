@@ -18,10 +18,10 @@
 <div align="center">
   <h1>My Skills :</h1>
   <p>
-    1. Cybersecurity - Pentester
-    2. Full Stack Developer
-    3. Graphic Designer
-    4. Vector Artist
+    1. Cybersecurity - Pentester</br>
+    2. Full Stack Developer</br>
+    3. Graphic Designer</br>
+    4. Vector Artist</br>
     5. Software Developer
   </p>
 </div>
