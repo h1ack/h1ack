@@ -27,7 +27,7 @@
 
 
 <div>
-  <h1>📜 Certfications : </h1><p>
+  <h3>📜 Certfications : </h3><p>
 - IBM Pentesting<br/>
 - Google Cybersecurity</p>
 </div>
