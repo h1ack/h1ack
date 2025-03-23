@@ -34,7 +34,7 @@
 
 <div>
   <h1>Owner of : </h1>
-  https://files.catbox.moe/i1gmbs.png
+  <img align="center" src="https://github.com/user-attachments/assets/6cdb9569-aeac-4461-a76e-f2502db0c1ee" width="550px"></br>
   <img align="center" src="https://github.com/user-attachments/assets/6cdb9569-aeac-4461-a76e-f2502db0c1ee" width="550px">
 </div>
 
