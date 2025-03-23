@@ -26,5 +26,13 @@
 </div>
 
 
+<div>
+  <h1>Certfications : </h1>
+- IBM Pentesting
+- Google Cybersecurity
+</div>
+
+
+
 ## Contact
 📧 Email: [meed@h1ack.me](mailto:meed@h1ack.me)
