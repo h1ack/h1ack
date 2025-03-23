@@ -34,6 +34,7 @@
 
 <div>
   <h1>Owner of : </h1>
+  https://files.catbox.moe/i1gmbs.png
   <img align="center" src="https://files.catbox.moe/i1gmbs.png" width="550px">
 </div>
 
