@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0cd17d3c-5da0-44b5-8d05-13f4c3056efc" width="250px">
+  <img src="https://github.com/user-attachments/assets/0cd17d3c-5da0-44b5-8d05-13f4c3056efc" width="550px">
 </div>
 
 ## Contact
