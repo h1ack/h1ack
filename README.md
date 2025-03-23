@@ -35,11 +35,11 @@
 <div>
   <h1>owner of : </h1>
   - M-Bytes</br>
-  - H1ack Security <img src="https://github.com/user-attachments/assets/61d5fc4a-c1b2-40ab-be18-a2dd9c0daec9" width="80px">
+  - H1ack Security
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0cd17d3c-5da0-44b5-8d05-13f4c3056efc) width="250px">
+  <img src="https://github.com/user-attachments/assets/0cd17d3c-5da0-44b5-8d05-13f4c3056efc" width="250px">
 </div>
 
 ## Contact
