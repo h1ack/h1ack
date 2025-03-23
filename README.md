@@ -35,7 +35,7 @@
 <div>
   <h1>Owner of : </h1>
   <img align="center" src="https://github.com/user-attachments/assets/6cdb9569-aeac-4461-a76e-f2502db0c1ee" width="550px"></br>
-  <img align="center" src="https://github.com/user-attachments/assets/6cdb9569-aeac-4461-a76e-f2502db0c1ee" width="550px">
+  <img align="center" src="https://github.com/user-attachments/assets/61d5fc4a-c1b2-40ab-be18-a2dd9c0daec9" width="550px">
 </div>
 
 
