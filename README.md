@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/clzwth.png">
+<img src="https://files.catbox.moe/clzwth.pn">
 
 <div align="center">
   
