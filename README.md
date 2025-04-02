@@ -1,5 +1,7 @@
 <img src="https://files.catbox.moe/clzwth.png">
 
+Money is power, power is control, and control is authority. But wisdom is what determines how you use it.
+
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=java,nodejs,bash,cs,cpp,css,html,discord,dotnet,electron,express,firebase,git,github,kali,linux,mongodb,mysql,nodejs,npm,photoshop,php,postman,py,qt,react,tailwind&theme=dark)](https://skillicons.dev)
