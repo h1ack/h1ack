@@ -1,7 +1,5 @@
 <img src="https://files.catbox.moe/clzwth.png">
 
-heloo
-
 
 
 <div align="center">
