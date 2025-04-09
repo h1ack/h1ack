@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,bash,cs,cpp,css,html,discord,dotnet,electron,express,firebase,git,github,kali,linux,mongodb,mysql,nodejs,npm,photoshop,php,postman,py,qt,react,tailwind&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,bash,cs,cpp,css,html,discord,dotnet,electron,express,firebase,git,github,kali,linux,mongodb,mysql,nodejs,npm,photoshop,php,postman,py,qt,react,tailwind&theme=dark)](https://skillicons.dev)
 
 </div>
 
