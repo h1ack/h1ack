@@ -19,7 +19,7 @@ Money is power, power is control, and control is authority. But wisdom is what d
 
 <div>
   <h2>💡 My Skills:</h2>
-  <p>1. Cybersecurity - Pentester</p>
+  <p>1. Cybersecurity </p>
   <p>2. Full Stack Developer</p>
   <p>3. Graphic Designer</p>
   <p>4. Vector Artist</p>
