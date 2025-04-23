@@ -1,4 +1,4 @@
-# <img src="https://files.catbox.moe/clzwth.png" width="300px">
+# <img src="https://files.catbox.moe/clzwth.png" width="700px">
 
 **Money is power, power is control, and control is authority. But wisdom is what determines how you use it.**  
 
