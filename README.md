@@ -46,3 +46,5 @@ Money is power, power is control, and control is authority. But wisdom is what d
 
 ## Contact
 📧 Email: [meed@h1ack.me](mailto:meed@h1ack.me)
+📧 support e-mail : [support@h1ack.me](mailto:meed@h1ack.me)
+
