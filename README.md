@@ -44,7 +44,9 @@ Money is power, power is control, and control is authority. But wisdom is what d
   <img src="https://github.com/user-attachments/assets/0cd17d3c-5da0-44b5-8d05-13f4c3056efc" width="550px">
 </div>
 
+<div>
 ## Contact
 📧 Email: [meed@h1ack.me](mailto:meed@h1ack.me)
 F - facebook : [Meed MH](https://www.facebook.com/hack.meplz/)
 R - reddit : [h1ack on reddit](https://www.reddit.com/user/h1ack/))
+</div>
